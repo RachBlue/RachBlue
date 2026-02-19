@@ -1,9 +1,9 @@
 <div align="right">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/RachBlue/count.svg" alt="Visitor Count" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+YOUR_NAME!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Rachel!;" />
 </h1>
 
 <h3 align="center">A passionate Front-End Developer currently crushing the Meta Certification 🚀</h3>
@@ -16,7 +16,7 @@
 ---
 
 ### ⚡ Quick Bits About Me
-- 🔭 I’m currently working on my **[Personal Brand Portfolio](https://YOUR_USERNAME.github.io/personal-brand-site/)**
+- 🔭 I’m currently working on my **[Personal Brand Portfolio](https://RachBlue.github.io/personal-brand-site/)**
 - 🌱 I’m currently learning **JavaScript Deep Dive & Meta Front-End Cert**
 - 💬 Ask me about **HTML, CSS, and how to fix GitHub deployment bugs!**
 - ⚡ Fun fact: **I built my first live site and it only took me 3 tries to get the name right!**
@@ -46,8 +46,8 @@
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/rbalou" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rbalou.biz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
