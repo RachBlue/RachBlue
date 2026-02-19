@@ -27,15 +27,23 @@
 ---
 
 ### 📊 My GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RachBlue&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachBlue&layout=compact&theme=transparent" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RachBlue&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="General Stats" />
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachBlue&layout=compact&theme=transparent" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RachBlue&theme=transparent" alt="GitHub Streak" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RachBlue&theme=transparent" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
