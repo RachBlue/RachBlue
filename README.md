@@ -12,9 +12,6 @@ I'm a Aspiring Full-Stack Developer / Front-end Developer, passionate about buil
 - 📚 Learning [Specific Framework, e.g., Tailwind CSS].
 - ✍️ Improving my documentation and clean-coding habits.
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[RachBlue]&show_icons=true&theme=radical)
-
 ---
 📫 **How to reach me:** https://www.linkedin.com/in/rbalou | rbalou.biz@gmail.com
 **RachBlue/RachBlue** 
