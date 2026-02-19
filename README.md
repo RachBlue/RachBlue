@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Rachel!👋
 
-<!--
-**RachBlue/RachBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Aspiring Full-Stack Developer / Front-end Developer, passionate about building clean, functional web applications. Currently, I'm collaborating with AI to push the boundaries of what I can create.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Node.js / Python
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- 🤖 Building a portfolio of AI-collaborative apps.
+- 📚 Learning [Specific Framework, e.g., Tailwind CSS].
+- ✍️ Improving my documentation and clean-coding habits.
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[RachBlue]&show_icons=true&theme=radical)
+
+---
+📫 **How to reach me:** https://www.linkedin.com/in/rbalou | rbalou.biz@gmail.com
+**RachBlue/RachBlue** 
