@@ -1,4 +1,4 @@
-<p align="center">
+    <p align="center">
   <img src="banner.png" alt="Profile Banner" width="100%" />
 </p>
 <h1 align="center">
@@ -131,6 +131,8 @@ Industrial construction cost calculator with 20+ materials, custom multipliers, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 
   
-  ---
-  *Building real things. Shipping fast. Learning everything.* 🚀<img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+  *Building real things. Shipping fast. Learning everything.*
